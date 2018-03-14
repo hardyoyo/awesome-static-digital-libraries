@@ -46,6 +46,8 @@
 
 ### Articles
 
+- [Tools and Workflows for Collaborating on Static Website Projects](http://journal.code4lib.org/articles/12779)
+
 ### Videos
 
 ### Podcasts
