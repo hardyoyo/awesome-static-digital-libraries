@@ -8,7 +8,8 @@
 
 - [Projects](#projects)
 - [Resources](#resources)
-  - [Plugins](#plugins)
+  - [Jekyll Plugins](#plugins)
+  - [Jekyll Themes](#themes)
 	- [Tutorials](#tutorials)
 	- [Articles](#articles)
 	- [Videos](#videos)
@@ -27,11 +28,15 @@
 - [Ontario Council of University Libraries (OCUL) Historical Topographic Map Digitization Project](https://ocul.on.ca/topomaps/)
 - [staticAid](http://hillelarnold.com/staticAid/)
 - [The Biggert Collection of Architectural Vignettes](https://cul.github.io/biggert_static/search/)
+- [The Barbara Curtis Adachi Bunraku Collection](http://bunraku.library.columbia.edu/)
 
 ## Resources
 
 ### Plugins
 - [Jekyll-IIIF plugin](https://github.com/pbinkley/jekyll-iiif)
+
+### Themes
+- [Wax: a gem-packaged Jekyll theme for creating minimal exhibitions with Jekyll, IIIF, and ElasticLunr.js](https://github.com/minicomp/wax)
 
 ### Other Awesome Lists
 - [Awesome Static Generators](https://github.com/myles/awesome-static-generators)
