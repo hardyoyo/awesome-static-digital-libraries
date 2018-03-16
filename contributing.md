@@ -7,7 +7,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Ensure your pull request adheres to the following guidelines:
 
 - **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
-- Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
+- This awesome list is still a baby! Please fill it with lots of suggestions, there are certainly more projects we can list here. Pull requests welcome!
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
