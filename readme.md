@@ -29,6 +29,7 @@
 - [staticAid](http://hillelarnold.com/staticAid/)
 - [The Biggert Collection of Architectural Vignettes](https://cul.github.io/biggert_static/search/)
 - [The Barbara Curtis Adachi Bunraku Collection](http://bunraku.library.columbia.edu/)
+- [Red, White & Black](https://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
 
 ## Resources
 
