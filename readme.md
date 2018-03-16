@@ -34,6 +34,7 @@
 
 ### Plugins
 - [Jekyll-IIIF plugin](https://github.com/pbinkley/jekyll-iiif)
+- [Jekyll-Maps plugin](https://github.com/ayastreb/jekyll-maps)
 
 ### Themes
 - [Wax: a gem-packaged Jekyll theme for creating minimal exhibitions with Jekyll, IIIF, and ElasticLunr.js](https://github.com/minicomp/wax)
