@@ -10,13 +10,13 @@ Ensure your pull request adheres to the following guidelines:
 - Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
-- Link to the GitHub repo, not npmjs.com.
+- For tools, frameworks and plugins, link to the source code, not the project wiki or home page.
+- For projects, link to the main project home page, not an about page.
 - Keep descriptions short and simple, but descriptive.
-- Don't mention `Node.js` in the description as it's implied.
+- Don't mention 'Static' in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
