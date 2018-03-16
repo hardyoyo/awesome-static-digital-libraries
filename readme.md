@@ -39,6 +39,7 @@
 
 ### Themes
 - [Wax: a gem-packaged Jekyll theme for creating minimal exhibitions with Jekyll, IIIF, and ElasticLunr.js](https://github.com/minicomp/wax)
+- [Jekyll Academic](https://github.com/ncsu-libraries/jekyll-academic): a Jekyll template developed by NCSU Libraries tailored specifically for use within the academic community.
 
 ### Other Awesome Lists
 - [Awesome Static Generators](https://github.com/myles/awesome-static-generators)
