@@ -30,6 +30,7 @@
 - [The Biggert Collection of Architectural Vignettes](https://cul.github.io/biggert_static/search/)
 - [The Barbara Curtis Adachi Bunraku Collection](http://bunraku.library.columbia.edu/)
 - [Red, White & Black](https://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
+- [The Archives Unleashed Project](http://archivesunleashed.org/)
 
 ## Resources
 
@@ -46,6 +47,7 @@
 
 ### Tutorials
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
+- [Getting Started with Markdown](https://programminghistorian.org/lessons/getting-started-with-markdown)
 
 ### Articles
 
@@ -56,6 +58,7 @@
 ### Podcasts
 
 ### Books
+- [Working wit Static Sites](https://www.safaribooksonline.com/library/view/working-with-static/9781491960936/), by Brian Rinaldi, Raymond Camden
 
 ### Blogs
 
@@ -66,6 +69,7 @@
 - [Getting Started with Static Website Generators](http://2018.code4lib.org/workshops/getting-started-with-static-website-generators), ([slides and resources](https://github.com/kaitlinnewson/c4l18-workshop-staticweb))
 
 ### Cheatsheets
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
 
 ### Tools
 
@@ -76,6 +80,7 @@
 ## Thanks
 - I shamelessly adapted this list format from the truly awesome [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) list.
 - I owe [Benjamin Armintor](https://twitter.com/barmintor) a case of beer for putting up with my endless pestering on this topic. Many of these links were found by him. Ben is a good egg.
+- I also swiped a bunch of links from Kaitlin Newson and Kim Pham's Code4Lib workshop, if you haven't yet checked out their [slides](https://github.com/kaitlinnewson/c4l18-workshop-staticweb), you should.
 
 
 ## License
