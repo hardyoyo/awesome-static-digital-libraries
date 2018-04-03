@@ -45,6 +45,7 @@
 - [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
 
 ### Tutorials
+- [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
 
 ### Articles
 
