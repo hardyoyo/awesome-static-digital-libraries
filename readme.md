@@ -58,7 +58,7 @@
 ### Podcasts
 
 ### Books
-- [Working wit Static Sites](https://www.safaribooksonline.com/library/view/working-with-static/9781491960936/), by Brian Rinaldi, Raymond Camden
+- [Working with Static Sites](https://www.safaribooksonline.com/library/view/working-with-static/9781491960936/), by Brian Rinaldi, Raymond Camden
 
 ### Blogs
 
