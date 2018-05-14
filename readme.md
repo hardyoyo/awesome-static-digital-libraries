@@ -31,6 +31,8 @@
 - [The Barbara Curtis Adachi Bunraku Collection](http://bunraku.library.columbia.edu/)
 - [Red, White & Black](https://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
 - [The Archives Unleashed Project](http://archivesunleashed.org/)
+- [Computer Simulation Archive](https://d.lib.ncsu.edu/computer-simulation/)
+- [Student Leadership Initiative](https://d.lib.ncsu.edu/student-leaders/)
 
 ## Resources
 
