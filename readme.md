@@ -52,6 +52,7 @@
 ### Tutorials
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
 - [Getting Started with Markdown](https://programminghistorian.org/lessons/getting-started-with-markdown)
+- [Static Web Publishing for Digital Scholarship](https://chrisdaaz.github.io/static-web-scholcomm/)
 
 ### Articles
 
