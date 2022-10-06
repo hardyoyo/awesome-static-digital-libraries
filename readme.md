@@ -38,6 +38,9 @@
 
 ## Resources
 
+### Frameworks
+- [Collection Builder](https://collectionbuilder.github.io/)
+
 ### Plugins
 - [Jekyll-IIIF plugin](https://github.com/pbinkley/jekyll-iiif)
 - [Jekyll-Maps plugin](https://github.com/ayastreb/jekyll-maps)
