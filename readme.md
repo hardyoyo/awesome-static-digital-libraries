@@ -8,6 +8,8 @@
 
 - [Projects](#projects)
 - [Resources](#resources)
+  - [Frameworks](#frameworks)
+  - [Communities](#communities)
   - [Jekyll Plugins](#plugins)
   - [Jekyll Themes](#themes)
   - [Tutorials](#tutorials)
@@ -40,6 +42,9 @@
 
 ### Frameworks
 - [Collection Builder](https://collectionbuilder.github.io/)
+
+### Communities
+- [Lib-static](https://lib-static.github.io/)
 
 ### Plugins
 - [Jekyll-IIIF plugin](https://github.com/pbinkley/jekyll-iiif)
