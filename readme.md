@@ -64,10 +64,11 @@
 
 ### Articles
 
-- [Tools and Workflows for Collaborating on Static Website Projects](http://journal.code4lib.org/articles/12779)
-- [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861)
 - [Lantern: A Pandoc Template for OER Publishing](https://journal.code4lib.org/articles/16329)
 - [Multilingual Jekyll: How The Programming Historian Does That](https://matthewlincoln.net/2020/03/01/multilingual-jekyll.html)
+- [Tools and Workflows for Collaborating on Static Website Projects](http://journal.code4lib.org/articles/12779)
+- [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861)
+
 
 ### Videos
 
@@ -81,10 +82,10 @@
 ### Courses
 
 ### Workshops and Presentations
-- [Going off the Rails on a Jekyll Train--Creative Uses of Static Site Generators](http://2017.code4lib.org/talks/Going-off-the-Rails-on-a-Jekyll-Train-Creative-Uses-of-Static-Site-Generators)
 - [Getting Started with Static Website Generators](http://2018.code4lib.org/workshops/getting-started-with-static-website-generators), ([slides and resources](https://github.com/kaitlinnewson/c4l18-workshop-staticweb))
-- [Static Websites and Community Documentation](https://github.com/chrisdaaz/samvera-staticweb)
+- [Going off the Rails on a Jekyll Train--Creative Uses of Static Site Generators](http://2017.code4lib.org/talks/Going-off-the-Rails-on-a-Jekyll-Train-Creative-Uses-of-Static-Site-Generators)
 - [Jekyll and Institutional Repositories](https://doi.org/10.21985/N28X22)
+- [Static Websites and Community Documentation](https://github.com/chrisdaaz/samvera-staticweb)
 
 ### Cheatsheets
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
