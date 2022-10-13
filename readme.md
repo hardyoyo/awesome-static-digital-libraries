@@ -67,6 +67,7 @@
 - [Tools and Workflows for Collaborating on Static Website Projects](http://journal.code4lib.org/articles/12779)
 - [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861)
 - [Lantern: A Pandoc Template for OER Publishing](https://journal.code4lib.org/articles/16329)
+- [Multilingual Jekyll: How The Programming Historian Does That](https://matthewlincoln.net/2020/03/01/multilingual-jekyll.html)
 
 ### Videos
 
