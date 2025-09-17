@@ -56,6 +56,7 @@
 ### Other Awesome Lists
 - [Awesome Static Generators](https://github.com/myles/awesome-static-generators)
 - [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll)
+- [Awesome IIIF](https://github.com/iiif/awesome-iiif) - List of lists of awesome IIIF resources.
 
 ### Tutorials
 - [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
