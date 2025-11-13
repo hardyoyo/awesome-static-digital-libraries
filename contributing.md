@@ -9,7 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 - **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
 - This awesome list is still a baby! Please fill it with lots of suggestions, there are certainly more projects we can list here. Pull requests welcome!
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
+- Try to make an individual pull request for each new suggestion, but we won't be sticklers about this, especially corrections. We want your PR! Really!
 - Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
 - For tools, frameworks and plugins, link to the source code, not the project wiki or home page.
