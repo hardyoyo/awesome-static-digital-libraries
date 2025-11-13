@@ -31,7 +31,8 @@
 - [staticAid](http://hillelarnold.com/staticAid/)
 - [The Biggert Collection of Architectural Vignettes](https://dlc.library.columbia.edu/biggert/)
 - [The Barbara Curtis Adachi Bunraku Collection](http://bunraku.library.columbia.edu/)
-- [Red, White & Black](https://scrc.lib.ncsu.edu/m/exhibits/redwhiteblack/)
+- [Red, White & Black](https://d.lib.ncsu.edu/red-white-black)
+- [North Carolina Architects and Builders](https://ncarchitects.lib.ncsu.edu/)
 - [The Archives Unleashed Project](http://archivesunleashed.org/)
 - [Computer Simulation Archive](https://d.lib.ncsu.edu/computer-simulation/)
 - [Student Leadership Initiative](https://d.lib.ncsu.edu/student-leaders/)
@@ -49,9 +50,11 @@
 ### Plugins
 - [Jekyll-IIIF plugin](https://github.com/pbinkley/jekyll-iiif)
 - [Jekyll-Maps plugin](https://github.com/ayastreb/jekyll-maps)
+- [Advanced Search plugin](https://github.com/dnoneill/jekyll-lunr-js-custom-search/) - Used by North Carolina Architects and Builders for search
 
 ### Themes
 - [Wax: a gem-packaged Jekyll theme for creating minimal exhibitions with Jekyll, IIIF, and ElasticLunr.js](https://github.com/minicomp/wax)
+- [Flâneur](https://github.com/kirschbombe/flaneur) - Used by Red, White and Black
 
 ### Other Awesome Lists
 - [Awesome Static Generators](https://github.com/myles/awesome-static-generators)
